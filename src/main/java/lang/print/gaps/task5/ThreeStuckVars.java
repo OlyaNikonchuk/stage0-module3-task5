@@ -5,7 +5,7 @@ public class ThreeStuckVars {
         int first = 1;
         int second = 10;
         int third = 100;
-        System.out.println(String.valueOf(first)+String.valueOf(second)+String.valueOf(third));
+        System.out.println(first+""+second+""+third);
 
     }
 }
